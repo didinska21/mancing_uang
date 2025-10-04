@@ -59,8 +59,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/dhilz/mrdilz.git
-cd mrdilz
+git clone https://github.com/didinska21/mancing_uang.git
+cd mancing_uang
 
 # Beri izin eksekusi .deb
 chmod +x *.deb
@@ -78,7 +78,7 @@ sudo mrdilz_setup
 
 ```bash
 # Uninstall package
-sudo dpkg -r mrdilz
+sudo dpkg -r mancing_uang
 
 # Hapus file konfigurasi (opsional)
 sudo rm -rf /opt/MrDilz
