@@ -78,7 +78,7 @@ sudo mrdilz_setup
 
 ```bash
 # Uninstall package
-sudo dpkg -r mancing_uang
+sudo dpkg -r mrdilz
 
 # Hapus file konfigurasi (opsional)
 sudo rm -rf /opt/MrDilz
